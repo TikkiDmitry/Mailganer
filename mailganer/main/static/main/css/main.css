@@ -1,0 +1,25 @@
+body {
+    background: #2c2c2c;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+form {
+    width: 500px;
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+}
+
+span {
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: left;
+}

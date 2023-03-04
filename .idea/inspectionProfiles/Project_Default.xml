@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test_graphics.arange" />
+          <option value="PyQt5.QtWidgets.clicked.connect" />
+          <option value="django.conf.urls.*" />
+          <option value="main.api_id" />
+          <option value="viber_bot.API_TOKEN_VIBER" />
+          <option value="viber_bot.*" />
+          <option value="whatsapp_bot.whatsappBot.assertFalse" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
